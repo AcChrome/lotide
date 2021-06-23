@@ -21,9 +21,6 @@ const eqArrays = function(arr1, arr2){
 
 
 //TEST CODE
-// assertEqual("lighthouse Labs", "Bootcamp");
-// assertEqual(1,1);
-
 eqArrays([1, 2, 3], [1, 2, 3]) // => true
 eqArrays([1, 2, 3], [3, 2, 1]) // => false
 
